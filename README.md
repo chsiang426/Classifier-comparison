@@ -2,7 +2,7 @@
 
 ## Overview
 
-Using Scikit-learn's classifier modules to predict [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset from [Kaggle](https://www.kaggle.com/) and comparing each accuracy.
+Using Scikit-learn's classifier modules to predict [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset from [Kaggle](https://www.kaggle.com/) and displaying each accuracy and training time.
 
 ## Classifiers
 
